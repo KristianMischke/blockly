@@ -228,7 +228,7 @@ goog.require('Blockly.Msg');
 /** @export */ Blockly.Msg.MATH_MULTIPLICATION_SYMBOL = "×";
 /** @export */ Blockly.Msg.MATH_NUMBER_HELPURL = "https://ja.wikipedia.org/wiki/数";
 /** @export */ Blockly.Msg.MATH_NUMBER_TOOLTIP = "数です。";
-/** @export */ Blockly.Msg.MATH_ONLIST_HELPURL = "";
+/** @export */ Blockly.Msg.MATH_ONLIST_HELPURL = "";  // untranslated
 /** @export */ Blockly.Msg.MATH_ONLIST_OPERATOR_AVERAGE = "リストの平均";
 /** @export */ Blockly.Msg.MATH_ONLIST_OPERATOR_MAX = "リストの最大値";
 /** @export */ Blockly.Msg.MATH_ONLIST_OPERATOR_MEDIAN = "リストの中央値";
@@ -287,7 +287,7 @@ goog.require('Blockly.Msg');
 /** @export */ Blockly.Msg.NEW_VARIABLE = "変数の作成…";
 /** @export */ Blockly.Msg.NEW_VARIABLE_TITLE = "新しい変数の名前：";
 /** @export */ Blockly.Msg.NEW_VARIABLE_TYPE_TITLE = "New variable type:";  // untranslated
-/** @export */ Blockly.Msg.ORDINAL_NUMBER_SUFFIX = "";
+/** @export */ Blockly.Msg.ORDINAL_NUMBER_SUFFIX = "";  // untranslated
 /** @export */ Blockly.Msg.PROCEDURES_ALLOW_STATEMENTS = "ステートメントを許可";
 /** @export */ Blockly.Msg.PROCEDURES_BEFORE_PARAMS = "対象：";
 /** @export */ Blockly.Msg.PROCEDURES_CALLNORETURN_HELPURL = "https://ja.wikipedia.org/wiki/サブルーチン";
@@ -398,6 +398,7 @@ goog.require('Blockly.Msg');
 /** @export */ Blockly.Msg.VARIABLES_SET_TOOLTIP = "この入力を変数と等しくなるように設定します。";
 /** @export */ Blockly.Msg.VARIABLE_ALREADY_EXISTS = "変数名 '%1' は既に存在しています。";
 /** @export */ Blockly.Msg.VARIABLE_ALREADY_EXISTS_FOR_ANOTHER_TYPE = "A variable named '%1' already exists for another type: '%2'.";  // untranslated
+/** @export */ Blockly.Msg.MATH_CHANGE_TITLE_ITEM = Blockly.Msg.VARIABLES_DEFAULT_NAME;
 /** @export */ Blockly.Msg.PROCEDURES_DEFRETURN_TITLE = Blockly.Msg.PROCEDURES_DEFNORETURN_TITLE;
 /** @export */ Blockly.Msg.CONTROLS_IF_IF_TITLE_IF = Blockly.Msg.CONTROLS_IF_MSG_IF;
 /** @export */ Blockly.Msg.CONTROLS_WHILEUNTIL_INPUT_DO = Blockly.Msg.CONTROLS_REPEAT_INPUT_DO;
@@ -406,7 +407,6 @@ goog.require('Blockly.Msg');
 /** @export */ Blockly.Msg.PROCEDURES_DEFRETURN_PROCEDURE = Blockly.Msg.PROCEDURES_DEFNORETURN_PROCEDURE;
 /** @export */ Blockly.Msg.LISTS_GET_SUBLIST_INPUT_IN_LIST = Blockly.Msg.LISTS_INLIST;
 /** @export */ Blockly.Msg.LISTS_GET_INDEX_INPUT_IN_LIST = Blockly.Msg.LISTS_INLIST;
-/** @export */ Blockly.Msg.MATH_CHANGE_TITLE_ITEM = Blockly.Msg.VARIABLES_DEFAULT_NAME;
 /** @export */ Blockly.Msg.PROCEDURES_DEFRETURN_DO = Blockly.Msg.PROCEDURES_DEFNORETURN_DO;
 /** @export */ Blockly.Msg.CONTROLS_IF_ELSEIF_TITLE_ELSEIF = Blockly.Msg.CONTROLS_IF_MSG_ELSEIF;
 /** @export */ Blockly.Msg.LISTS_GET_INDEX_HELPURL = Blockly.Msg.LISTS_INDEX_OF_HELPURL;
